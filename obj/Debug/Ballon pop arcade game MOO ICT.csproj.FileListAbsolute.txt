@@ -1,0 +1,10 @@
+E:\Ballon pop arcade game MOO ICT\Ballon pop arcade game MOO ICT\obj\Debug\Ballon pop arcade game MOO ICT.csproj.AssemblyReference.cache
+E:\Ballon pop arcade game MOO ICT\Ballon pop arcade game MOO ICT\obj\Debug\Ballon_pop_arcade_game_MOO_ICT.Form1.resources
+E:\Ballon pop arcade game MOO ICT\Ballon pop arcade game MOO ICT\obj\Debug\Ballon_pop_arcade_game_MOO_ICT.Properties.Resources.resources
+E:\Ballon pop arcade game MOO ICT\Ballon pop arcade game MOO ICT\obj\Debug\Ballon pop arcade game MOO ICT.csproj.GenerateResource.cache
+E:\Ballon pop arcade game MOO ICT\Ballon pop arcade game MOO ICT\obj\Debug\Ballon pop arcade game MOO ICT.csproj.CoreCompileInputs.cache
+E:\Ballon pop arcade game MOO ICT\Ballon pop arcade game MOO ICT\bin\Debug\Ballon pop arcade game MOO ICT.exe.config
+E:\Ballon pop arcade game MOO ICT\Ballon pop arcade game MOO ICT\bin\Debug\Ballon pop arcade game MOO ICT.exe
+E:\Ballon pop arcade game MOO ICT\Ballon pop arcade game MOO ICT\bin\Debug\Ballon pop arcade game MOO ICT.pdb
+E:\Ballon pop arcade game MOO ICT\Ballon pop arcade game MOO ICT\obj\Debug\Ballon pop arcade game MOO ICT.exe
+E:\Ballon pop arcade game MOO ICT\Ballon pop arcade game MOO ICT\obj\Debug\Ballon pop arcade game MOO ICT.pdb
